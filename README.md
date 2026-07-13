@@ -1,15 +1,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bishoy souser
-=====================================================================================================================================
+
 
 Backend developer
------------------
+---
 
 I am a backend developer who loves problem!
+
+### Projects
+
+- [MS Sports Academy](https://ms-sportsacademy.com/) - Sport Academy - Booking - CRM - Cron
+- [Convert-Em](https://convert-em.com/) - Integrate with Botpress to get leads social media
+
 
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [MyPortfolio](http://bishoysouser.github.io/Mysite/)
 * ✉️  You can contact me at [bishoysouser@gmail.com](mailto:bishoysouser@gmail.com)
-* 🚀  I'm currently working on [HR Sys App](https://apps.bsocial-eg.com/NEW_HR_SYSTEM/auth/login)
+* 🧠 I'm now learning Java
+  - Project: Inventory Management System
 * 🧠  I'm learning ChatGPT, prompt engineer
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Wolf, Tell Everyone
